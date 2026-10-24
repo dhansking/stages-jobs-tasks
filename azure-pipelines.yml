@@ -2,7 +2,7 @@ trigger:
 - main
 
 pool:
-  vmImage: ubuntu 26
+  vmImage: ubuntu-26
 
 stages:
 - stage: BuildApp
